@@ -48,6 +48,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohammadAliPk/MohammadAliPk/output/snake.svg" alt="Snake animation" />
 
 ###
